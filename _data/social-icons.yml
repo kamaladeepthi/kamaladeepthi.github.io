@@ -1,0 +1,15 @@
+- name: "Email"
+  url: "mailto:kamaladeepthi.k@gmail.com"
+  fa-icon: "fa-envelope"
+
+- name: "Facebook"
+  url: "https://www.facebook.com/kamaladeepthi"
+  fa-icon: "fa-facebook"
+
+- name: "LinkedIn"
+  url: "https://ca.linkedin.com/in/kamaladeepthi"
+  fa-icon: "fa-linkedin"
+
+- name: "YouTube"
+  url: "https://www.youtube.com/channel/UCUvlid9Rb4hpiFSe0QnfaTQ"
+  fa-icon: "fa-youtube"
