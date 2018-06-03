@@ -3,7 +3,7 @@ require('date')
 module Events
   class Generator < Jekyll::Generator
     def generate(site)
-      events = site.data["events"]
+      events = site.data["events"].sort_by { |event| event["date"] }.reverse
 
       upcoming, past = events.partition { |event| Date.parse(event["date"]) >= Date.today }
       past = past.group_by { |event| Date.parse(event["date"]).year }
