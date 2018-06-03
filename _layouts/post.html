@@ -7,6 +7,10 @@
 
 <section id="post">
     <div class="container">
+        {% assign page_category = page.categories | first %}
+        {% if page.path != 'reviews.html' and page_category == 'reviews' %}
+          {% include reviewlist.html %}
+        {% endif %}
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center">
                 <h2 class="section-heading">{{ page.title }}</h2>
