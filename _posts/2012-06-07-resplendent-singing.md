@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Resplendent Singing"
-author: "Velcheti Subrahmanyam"
-publication: "The Hindu"
-date: 2012-06-07
+subtitle: "Velcheti Subrahmanyam (The Hindu) &bull; June 07, 2012"
+date: "2012-06-07"
 categories: reviews
 ---
+
+> **Kamala Deepthi's vocal virtuoso created ripples.**
 
 In a much relief from the sultry and suffocating outside, warmth of melodic notes comforted the music aficionados as young vocalist Kasturi Kamala Deepthi's pliable voice lent remarkable expression to a string of ragas at Kalabharati in Visakhapatnam.
 
@@ -19,3 +20,5 @@ That intensely emotive rendition in perfect blend of artistic virtuosity and fit
 
 RTP in ragas Mohana and Ranjani with pallavi being Govindasundara Jaganmohana Deena Mandara Bhaktha Ranjana in its elaborate
 treatment at amble stood out for its aesthetic appeal in classicism. It is rather rare to have such a musical feast of remarkable order from a young artiste in her early twenties. She capped the session with a bubbly Tillana of her Guru in raga Husseni. M. Satyanarayana's bow was aglow particularly in its share of raga Sanakarabharanam, Mohana and Ranjani. Dhanwada Dharmarao on mridangam and M Suryaprasadarao on ghatam were at their best.
+
+[Download PDF]()

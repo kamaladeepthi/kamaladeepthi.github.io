@@ -3,19 +3,18 @@
 {% include head.html %}
 
 <body id="page-top" class="index">
-{% include nav.html %}
+{% include nav.html fix-navigation="true" %}
 
-<!-- About Section -->
-<section id="about">
+<section id="post">
     <div class="container">
         <div class="row">
-            <div class="col-md-12 text-center">
+            <div class="col-md-8 col-md-offset-2 text-center">
                 <h2 class="section-heading">{{ page.title }}</h2>
-                <h3 class="section-subheading text-muted"></h3>
+                <h3 class="section-subheading text-muted">{{ page.subtitle }}</h3>
             </div>
         </div>
         <div class="row">
-          <div class="col-md-12 text-left">
+          <div class="col-md-8 col-md-offset-2 text-left">
             {{ content }}
           </div>
         </div>

@@ -17,3 +17,19 @@
     font-weight: 700;
   }
 }
+
+dt {
+  font-size: 16px;
+  font-weight: 300;
+
+  .subtitle {
+    float: right;
+    font-weight: 300;
+    font-size: 14px;
+
+  }
+}
+
+dd {
+  font-style: italic;
+}

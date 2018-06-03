@@ -1,5 +1,5 @@
 <!-- Navigation -->
-<nav id="mainNav" class="navbar navbar-default navbar-custom navbar-fixed-top">
+<nav id="{% if include.fix-navigation %}mainNavFix{% else %}mainNav{% endif %}" class="navbar navbar-default navbar-custom navbar-fixed-top {% if include.fix-navigation %}affix{% endif %}">
     <div class="container">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header page-scroll">
@@ -13,25 +13,25 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li class="hidden">
-                    <a href="#page-top"></a>
+                    <a href="{% if include.fix-navigation %}/{% else %}#page-top{% endif %}"></a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#about">About</a>
+                    <a class="page-scroll" href="{% if include.fix-navigation %}/{% endif %}#about">About</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#events">Events</a>
+                    <a class="page-scroll" href="{% if include.fix-navigation %}/{% endif %}#events">Events</a>
                     <!-- First few events. Page? -->
                 </li>
                 <li>
-                    <a class="page-scroll" href="#portfolio">Gallery</a>
+                    <a class="page-scroll" href="{% if include.fix-navigation %}/{% endif %}#portfolio">Gallery</a>
                     <!-- Videos, Audio, Photos  -->
                 </li>
                 <li>
-                    <a class="page-scroll" href="#achievements">Achievements</a>
+                    <a class="page-scroll" href="{% if include.fix-navigation %}/{% endif %}#achievements">Achievements</a>
                     <!-- Reviews, Awards -->
                 </li>
                 <li>
-                    <a class="page-scroll" href="#contact">Contact</a>
+                    <a class="page-scroll" href="{% if include.fix-navigation %}/{% endif %}#contact">Contact</a>
                 </li>
             </ul>
         </div>

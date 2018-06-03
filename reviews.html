@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Reviews"
+---
+
+<dl>
+  {% for post in site.categories['reviews'] %}
+    <dt>
+      <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+      <span class="subtitle text-muted">{{ post.subtitle }}</a>
+    </dt>
+    <dd>{{ post.excerpt }}</dd>
+  {% endfor %}
+</dl>
