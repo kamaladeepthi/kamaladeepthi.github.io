@@ -3,6 +3,7 @@ layout: post
 title: "Elated expression of manodharma"
 subtitle: "A. R. S. (The Hindu) &bull; March 4, 2011"
 date: "2011-03-04"
+excerpt: "Continuing to eruditely expounding expression of Manodharma by way of expansively expatiating Ninne Namminanu of Syamasastry (Todi in Misrachapu), Kasturi Kamala Deepthi, systematically developed alapana, neravu and swaram in particular in both the tempos."
 categories: reviews
 ---
 

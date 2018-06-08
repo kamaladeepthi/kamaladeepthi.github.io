@@ -3,6 +3,7 @@ layout: post
 title: "Young singing sensation"
 subtitle: "A. Ramalinga Sastry (The Hindu) &bull; March 25, 2005"
 date: "2005-03-25"
+excerpt: "Singing for the well-noted sabha, Visakha Music Academy as a last minute substitute for the slated artiste who could not make it, Deepthi inspite of being in the midst of attending the final Intermediate examination, not only filled the gap but also seemed to have utilised the opportunity to the hilt."
 categories: reviews
 ---
 

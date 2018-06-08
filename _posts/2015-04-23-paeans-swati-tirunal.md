@@ -3,6 +3,7 @@ layout: post
 title: "Paeans to Swati Tirunal"
 subtitle: "A. Sangameswaran (The Hindu) &bull; April 23, 2015"
 date: "2015-04-23"
+excerpt: "Kasthuri Kamala Deepthi from Visakhapatnam enthralled rasikas with her pliable voice and effortless singing...Her rendering of the kriti 'Pahijagadjanani' and the swara patterns were a testimony of the style inherited from her mentor, Madurai Seshagopalan."
 categories: reviews
 ---
 

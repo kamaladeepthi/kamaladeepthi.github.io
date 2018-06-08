@@ -3,6 +3,7 @@ layout: post
 title: "Engaging vocal recital"
 subtitle: "A. Ramalinga Sastry (The Hindu) &bull; July 13, 2007"
 date: "2007-07-13"
+excerpt: "Marked with an aesthetic effort it fulfilled all norms of exposition of carnatic music in all its richness and attracted applause from all sections of the audience including the critics."
 categories: reviews
 ---
 

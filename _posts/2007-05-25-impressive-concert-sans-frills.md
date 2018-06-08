@@ -3,6 +3,7 @@ layout: post
 title: "Impressive concert sans frills"
 subtitle: "Lalithaa Krishnan (The Hindu) &bull; May 25, 2007"
 date: "2007-05-25"
+excerpt: "No fuss, no frills. This initial impression on listening to Kasthuri Kamala Deepthi, a young vocalist from Vizag, deepened to a further sense of relief as the artiste allowed her natural instincts to take over rather than succumb to the prevalent tendency to adopt an applause-driven format."
 categories: reviews
 ---
 

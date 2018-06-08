@@ -3,6 +3,7 @@ layout: post
 title: "Soulful Khamboji"
 subtitle: "P. Surya Rao (The Hindu) &bull; February 4, 2011"
 date: "2011-02-04"
+excerpt: "She has already, at the age of 22, received many awards and accolades from several sabhas in the country...The raga delineation was exhaustive. The niraval and swaras were also brilliantly rendered."
 categories: reviews
 ---
 

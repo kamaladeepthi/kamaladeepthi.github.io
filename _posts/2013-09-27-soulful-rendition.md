@@ -3,6 +3,7 @@ layout: post
 title: "Soulful Rendition"
 subtitle: "G. S. Paul (The Hindu) &bull; September 27, 2013"
 date: "2013-09-27"
+excerpt: "Kamala Deepti is gifted with a rich and resonant voice of considerable range that she revealed right in the first two numbers - varnam Intha Chaala in Begada with swarakalpana and the kirtana Sri Mahaganapathe in Malahari, both of Muthaiah Bhagavatar...They revealed her sense for sahitya and neat musical setting for raga and swara presentation."
 categories: reviews
 ---
 

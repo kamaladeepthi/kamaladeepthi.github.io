@@ -3,6 +3,7 @@ layout: post
 title: "A rich musical blend"
 subtitle: "Gudipoodi Srihari (The Hindu) &bull; June 21, 2013"
 date: "2013-06-21"
+excerpt: "Renditions of Maanamu Kavalenu Talli in Sahana and Brovavamma in Maanji of Syama Sastry led her to elaborate Kalyani for Etavunara popular number of Thyagaraja was her choice. Both the raga essay and swarakalpana enlivened the spirit of composition."
 categories: reviews
 ---
 

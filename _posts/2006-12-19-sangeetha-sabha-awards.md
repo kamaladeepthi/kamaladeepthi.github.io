@@ -3,6 +3,7 @@ layout: post
 title: "Sangeetha Sabha awards for promising artistes"
 subtitle: "The Hindu &bull; December 19, 2006"
 date: "2006-12-19"
+excerpt: "K. Kasturi Kamala Deepthi from the city will receive the Dr. Alhari Singari gold medal for her achievements in classical music - vocal and veena."
 categories: reviews
 ---
 

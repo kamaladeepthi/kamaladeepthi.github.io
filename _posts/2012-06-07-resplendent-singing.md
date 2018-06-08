@@ -3,6 +3,7 @@ layout: post
 title: "Resplendent Singing"
 subtitle: "Velcheti Subrahmanyam (The Hindu) &bull; June 07, 2012"
 date: "2012-06-07"
+excerpt: "With an in-depth grasp of the nitty-gritty of Carnatic classical idiom, she scaled its rich and varied nuances with gusto. Her penchant for alapana made the chosen ragas softly meander letting their abiding charms unfold in full bloom."
 categories: reviews
 ---
 
