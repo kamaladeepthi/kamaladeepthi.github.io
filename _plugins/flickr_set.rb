@@ -47,8 +47,6 @@ module Jekyll
 
       @config = Jekyll.configuration({})['flickr_set'] || {}
 
-      @config['gallery_tag']   ||= 'p'
-      @config['gallery_class'] ||= 'gallery'
       @config['a_href']        ||= nil
       @config['a_target']      ||= '_blank'
       @config['image_rel']     ||= ''
@@ -58,15 +56,22 @@ module Jekyll
     end
 
     def render(context)
-      html = "<#{@config['gallery_tag']} class=\"#{@config['gallery_class']}\">"
+      html = ""
 
       photos.each do |photo|
-        html << "<a href=\"#{photo.url(@config['a_href'])}\" target=\"#{@config['a_target']}\">"
-        html << "  <img src=\"#{photo.thumbnail_url}\" rel=\"#{@config['image_rel']}\"/>"
-        html << "</a>"
+        html << "<div class=\"portfolio photo\" data-cat=\"photo\">"
+        html << "  <div class=\"portfolio-wrapper\">"
+        html << "    <img src=\"#{photo.thumbnail_url}\" alt=\"\" />"
+        html << "    <div class=\"label\">"
+        html << "      <div class=\"label-text\">"
+        html << "        <span class=\"text-title text-center\">#{photo.title}</span>"
+        html << "        <span class=\"text-category\"></span>"
+        html << "      </div>"
+        html << "      <div class=\"label-bg\"></div>"
+        html << "    </div>"
+        html << "  </div>"
+        html << "</div>"
       end
-
-      html << "</#{@config['gallery_tag']}>"
 
       return html
     end
@@ -75,7 +80,8 @@ module Jekyll
       @photos = Array.new
 
       JSON.parse(json)['photoset']['photo'].each do |item|
-        @photos << FlickrPhoto.new(item['title'], item['id'], item['secret'], item['server'], item['farm'], @config['image_size'])
+        @photos << FlickrPhoto.new(item['title'], item['id'], item['secret'],
+                                   item['server'], item['farm'], @config['image_size'])
       end
 
       @photos.sort

@@ -715,15 +715,15 @@ ul.social-buttons {
 
 // Highlight Color Customization
 
-::-moz-selection {
-    text-shadow: none;
-    background: $theme-primary;
-}
-
-::selection {
-    text-shadow: none;
-    background: $theme-primary;
-}
+// ::-moz-selection {
+//     text-shadow: none;
+//     background: $theme-primary;
+// }
+//
+// ::selection {
+//     text-shadow: none;
+//     background: $theme-primary;
+// }
 
 img::selection {
     background: transparent;

@@ -30,11 +30,9 @@ plugins:
   - jekyll-feed
 
 flickr_set:
-  gallery_tag:   'p'
-  gallery_class: 'gallery'
   a_target:      '_blank'
   image_rel:     ''
-  image_size:    's'
+  image_size:    'n'
   api_key: '3821171367bf7b88c14cee554b12054e'
 
 # Exclude from processing.
