@@ -23,7 +23,7 @@ github_username:  kamaladeepthi
 
 # Build settings
 markdown: kramdown
-theme: agency-jekyll-theme
+theme: jekyll-theme-cayman
 permalink: none
 
 flickr_set:
