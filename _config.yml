@@ -24,7 +24,7 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: agency-jekyll-theme
+theme: jekyll-theme-cayman
 permalink: none
 plugins:
   - jekyll-feed
