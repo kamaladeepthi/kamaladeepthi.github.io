@@ -18,7 +18,7 @@ email: kamaladeepthi.k@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A young and promising Carnatic vocalist with high caliber, presently under the tutelage of the legendary musician "Padmabhushan" "Sangeetha Kalanidhi" Madurai Sri T. N. Seshagopalan.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://kamaladeepthi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kamaladeepthi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kamaladeepthi
 
 # Build settings
