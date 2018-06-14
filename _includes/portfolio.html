@@ -12,7 +12,21 @@
         </div>
         <div id="portfoliolist">
           <!-- Photo Section -->
-          
+          {% assign sorted_photos = site.data.images | sort:"date" | reverse %}
+          {% for photo in sorted_photos limit:10 %}
+            <div class="portfolio photo" data-cat="photo">
+              <div class="portfolio-wrapper">
+                <img src="{{ photo.url }}" alt="" />
+                <div class="label">
+                  <div class="label-text">
+                    <span class="text-title text-center">{{ photo.title }}</span>
+                    <span class="text-category">{{ photo.date | date: "%b %d, %Y" }}</span>
+                  </div>
+                  <div class="label-bg"></div>
+                </div>
+              </div>
+            </div>
+          {% endfor %}
 
           <!-- Video Section -->
           {% assign videos = site.data.videos | sort: 'date' | reverse %}
