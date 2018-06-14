@@ -12,33 +12,16 @@ fix-navigation: "true"
                 <h3 class="section-subheading text-muted">All Upcoming and Past Concerts</h3>
             </div>
         </div>
-        {% for event in page.upcoming %}
-          {% if forloop.first %}
-            <div class="row">
-              <div class="col-sm-8 col-sm-offset-2">
-                <h4>Upcoming</h4>
-              </div>
-            </div>
-          {% endif %}
-          <div class="row event">
-            <div class="col-sm-1 col-sm-offset-2">
-              <span class="event-date">{{ event.date | date:'%b %d' }}</span><br>
-              <span class="event-date">{{ event.date | date:'%Y' }}</span>
-            </div>
-            <div class="col-sm-5">
-              <span class="event-title">{{ event.title }}</span><br>
-              <p class="event-caption">{{ event.caption }}</p></div>
-            <div class="col-sm-2">
-              {{ event.location }}
-            </div>
-          </div>
-        {% endfor %}
-        {% for group in page.past %}
-          {% for event in group[1] %}
+        {% assign today = 'now' | date:'%Y-%m-%d' %}
+        {% assign sorted_events = site.data.events | sort: 'date' | reverse %}
+
+        <!-- Upcoming Events -->
+        {% for event in sorted_events %}
+          {% if event.date >= today %}
             {% if forloop.first %}
               <div class="row">
                 <div class="col-sm-8 col-sm-offset-2">
-                  <h4>{{ group[0] }}</h4>
+                  <h4>Upcoming</h4>
                 </div>
               </div>
             {% endif %}
@@ -54,6 +37,34 @@ fix-navigation: "true"
                 {{ event.location }}
               </div>
             </div>
+          {% endif %}
+        {% endfor %}
+
+        <!-- Past Events -->
+        {% assign sorted_events_by_year = sorted_events | group_by:"year" %}
+        {% for group in sorted_events_by_year %}
+          {% for event in group.items %}
+            {% if event.date < today %}
+              {% if forloop.first %}
+                <div class="row">
+                  <div class="col-sm-8 col-sm-offset-2">
+                    <h4>{{ group.name }}</h4>
+                  </div>
+                </div>
+              {% endif %}
+              <div class="row event">
+                <div class="col-sm-1 col-sm-offset-2">
+                  <span class="event-date">{{ event.date | date:'%b %d' }}</span><br>
+                  <span class="event-date">{{ event.date | date:'%Y' }}</span>
+                </div>
+                <div class="col-sm-5">
+                  <span class="event-title">{{ event.title }}</span><br>
+                  <p class="event-caption">{{ event.caption }}</p></div>
+                <div class="col-sm-2">
+                  {{ event.location }}
+                </div>
+              </div>
+            {% endif %}
           {% endfor %}
         {% endfor %}
         {% if page.path == 'events.html' %}
