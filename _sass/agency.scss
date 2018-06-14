@@ -194,6 +194,12 @@ header {
     }
 }
 
+@media(min-width:320px) {
+  header {
+    background-position: 22%;
+  }
+}
+
 @media(min-width:768px) {
     header {
         .intro-text {
@@ -522,6 +528,14 @@ section {
     p {
         margin-top: 0;
     }
+}
+
+@media(min-width:320px) {
+  .team-member {
+    .img-responsive {
+      max-width: 60%;
+    }
+  }
 }
 
 // Clients Aside
