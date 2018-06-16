@@ -29,4 +29,4 @@ talam. The pallavi line, *Pahimam Sri Rajeswari Kripakari Sakalakala Sagari*, ra
 The presentation of Ragam and Tanam was dexterous. Dinakar’s violin support was uniformly good. So was Tani avartanam by the
 mridangam artiste. The final part of Kamala Deepti’s concert had an Ashtapadi of Jayadeva in Raag Shyaamakalyani. She ended her show with her guru Seshagopalan's Tillana in Huseni.
 
-[Download PDF]()
+[Original Source](http://www.thehindu.com/todays-paper/tp-features/tp-fridayreview/soulful-rendition/article5172395.ece)

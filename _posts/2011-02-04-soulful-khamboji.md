@@ -16,4 +16,4 @@ Starting with crisp saveri varnam, Kamala Deepti next sang Abhayambaya of Dikshi
 For the main item, Kamala Deepti took up the majestic composition of Thyagaraja in Kambhoji O Rangasayi. The raga delineation was
 exhaustive. The niraval and swaras were also brilliantly rendered. B.V. Durgabhavani and K. Sai Giridhar supported efficiently on violin and mridangam respectively. Another attractive piece in the concert was Madurai G.S. Mani's composition Palimpa Tamasama in Sivaranjani.
 
-[Download PDF]()
+[Original Source](http://www.thehindu.com/features/friday-review/music/Soulful-khamboji/article15127476.ece)

@@ -22,4 +22,4 @@ That intensely emotive rendition in perfect blend of artistic virtuosity and fit
 RTP in ragas Mohana and Ranjani with pallavi being Govindasundara Jaganmohana Deena Mandara Bhaktha Ranjana in its elaborate
 treatment at amble stood out for its aesthetic appeal in classicism. It is rather rare to have such a musical feast of remarkable order from a young artiste in her early twenties. She capped the session with a bubbly Tillana of her Guru in raga Husseni. M. Satyanarayana's bow was aglow particularly in its share of raga Sanakarabharanam, Mohana and Ranjani. Dhanwada Dharmarao on mridangam and M Suryaprasadarao on ghatam were at their best.
 
-[Download PDF]()
+[Original Source](http://www.thehindu.com/features/friday-review/music/resplendent-singing/article3500060.ece)

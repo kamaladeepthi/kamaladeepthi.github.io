@@ -19,4 +19,4 @@ A switch to the fast track came with Patnam Subramania Iyer's 'Garudagamana' aft
 
 Kovai S. Chandran (violin) and Mannargudi N. Subramanian (mridangam) put their experience and artistry to good use, encouraging the young vocalist in her efforts.
 
-[Download PDF]()
+[Original Source](http://www.thehindu.com/todays-paper/tp-features/tp-fridayreview/impressive-concert-sans-frills/article2272546.ece)

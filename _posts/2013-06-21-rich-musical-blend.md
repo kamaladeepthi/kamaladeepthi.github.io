@@ -39,4 +39,4 @@ The other numbers that enriched his concert were Paridanamichite in Bilahari of 
 
 Mridangam artiste Aravind’s tani avartanam and his general support and violinist Saikumar’s supportive contribution stood by the concert.
 
-[Download PDF]()
+[Original Source](http://www.thehindu.com/todays-paper/tp-features/tp-fridayreview/a-rich-musical-blend/article4835245.ece)

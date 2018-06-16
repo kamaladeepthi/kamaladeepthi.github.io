@@ -17,4 +17,4 @@ Compositions of Annamayya, Jayadeva and a 'thillana' in 'Jhanjhuti' constituted 
 
 Prasad negotiating the 'aalapana' and 'swaram' in his turns and Venkata Rao executing a scintillating 'thani' contributed to the grandeur.
 
-[Download PDF]()
+[Original Source](http://www.thehindu.com/thehindu/fr/2005/03/25/stories/2005032500950200.htm)

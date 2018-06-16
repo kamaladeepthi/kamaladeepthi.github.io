@@ -18,4 +18,4 @@ rendering Nenarunchara of Thyagaraja, she expansively expatiated Chakkani Raja
 
 The knowledgeable thani executed on mridangam by the little Harsha along with Venkatesh on morsing with felicitous charm delighted all alike. Sarma on violin contributed grandeur with his scholarly and subtle following. Guest of Honour, AIR Station Director Prayaga Vedavathi presenting mementos was all praise for the artistes. Founder secretary of the Samithi and renowned mridangam vidwan V.V. Ramanamurty proposed a vote of thanks.
 
-[Download PDF]()
+[Original Source](http://www.thehindu.com/todays-paper/tp-features/tp-fridayreview/engaging-vocal-recital/article2272988.ece)

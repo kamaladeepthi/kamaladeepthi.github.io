@@ -19,4 +19,4 @@ Shawls and plaques will also be presented to the winners.
 
 Cash awards and prizes will also be given away to the winners of the state-level competition in classical music - vocal, veena, mrudangam and violin for both juniors and seniors and the Ragam Tanam Pallavi at a special function to be held in Kalabharathi auditorium on December 26.
 
-[Download PDF]()
+[Original Source](http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/sangeetha-sabha-awards-for-promising-artistes/article18511948.ece)

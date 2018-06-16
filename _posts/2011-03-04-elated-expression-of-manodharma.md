@@ -25,4 +25,4 @@ Rendering effectively evocative, B. Sai Kartikeya, with Peri Tyagaraju on violin
 
 Exploiting her vibrantly melodious and euphonic range of full two and half octaves with the same intensity in the voice and her sensibly knowledgeable art of exposition to the hilt systematically, N.C.S. Ravali from Hyderabad rendered an ever reverberating recital on the concluding evening. Very well accompanied by Pappu Jnana Dev on the violin and on mridangam by G. Venkata Rao, the expansive expatiation of Bhajare Chitha (Kalyani), stood out hauntingly an ever ringing melody.
 
-[Download PDF]()
+[Original Source](http://www.thehindu.com/todays-paper/tp-features/tp-fridayreview/Elated-expression-of-manodharma/article14932975.ece)

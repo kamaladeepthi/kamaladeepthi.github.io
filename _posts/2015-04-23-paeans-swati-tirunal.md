@@ -24,4 +24,4 @@ Krishnakumar regaled the audience with an impressive Mohiniyattam performance. H
 Moozhikulam Kaarthik presented a neat Panthuvarali ('Paripalayasaraseeruha') and a Sundaranarayana kriti in Reetigowla ('Hari om
 Narayana') in his concert. Kochi Viswanathan delivered a classic Shanmukhapriya ('Maamava Karunaya') among other kritis. Kuchipudi by Swarnalatha, Sopana sangeetham by Eloor Biju and Sangeethaaradhana by devotees also lent variety to the festival. The fete was organised by Nadopasana.
 
-[Download PDF]()
+[Original Source](http://www.thehindu.com/features/friday-review/a-dance-and-music-festival-dedicated-to-swati-tirunal/article7129543.ece)
